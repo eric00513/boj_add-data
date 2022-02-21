@@ -1,6 +1,8 @@
 # boj_add-data
 BOJ 문제 채점 데이터 추가 프로젝트
 
+모든 채점 결과, 실행 시간, 메모리 등은 [Stack](https://stack.acmicpc.net)을 기준으로 합니다.
+
 ## Done
 - [22899번](https://www.acmicpc.net/problem/22899) - 논리가 틀린 코드는 작은 서브태스크에서도 전부 틀려야 함([링크](https://www.acmicpc.net/board/view/73382), [재채점](https://www.acmicpc.net/rejudge/status/all/4075))
 - [1926번](https://www.acmicpc.net/problem/1926) - n<m인 데이터가 존재하지 않음([링크](https://www.acmicpc.net/board/view/77682), [재채점](https://www.acmicpc.net/rejudge/status/all/4448))
