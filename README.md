@@ -8,6 +8,8 @@ BOJ 문제 채점 데이터 추가 프로젝트
 - [1926번](https://www.acmicpc.net/problem/1926) - n<m인 데이터가 존재하지 않음([링크](https://www.acmicpc.net/board/view/77682), [재채점](https://www.acmicpc.net/rejudge/status/all/4448))
 - [23807번](https://www.acmicpc.net/problem/23807) - 답이 최대인 데이터가 존재하지 않음([링크](https://www.acmicpc.net/board/view/79377), [재채점](https://www.acmicpc.net/rejudge/status/all/4491))
 - [5582번](https://www.acmicpc.net/problem/5582) - DP가 아닌 느린 코드들이 통과([링크](https://www.acmicpc.net/board/view/82879), [재채점](https://www.acmicpc.net/rejudge/status/all/4711))
+- [9251번](https://www.acmicpc.net/problem/9251) - O((NM)^2) 코드가 통과([링크](https://www.acmicpc.net/board/view/84485), [재채점](https://www.acmicpc.net/rejudge/status/all/4728))
+- [9252번](https://www.acmicpc.net/problem/9252) - O((NM)^2) 코드가 통과([링크](https://www.acmicpc.net/board/view/84485), [재채점](https://www.acmicpc.net/rejudge/status/all/4729))
 
 ## Pending
 - [11094번](https://www.acmicpc.net/problem/11094) - Simon says의 위치를 정확히 파악하지 않는 코드가 통과([링크](https://www.acmicpc.net/board/view/77868))
@@ -19,5 +21,4 @@ BOJ 문제 채점 데이터 추가 프로젝트
 
 ## Todo
 - [5582번](https://www.acmicpc.net/problem/5582) - 14782474번, 7146666번, 14116034번 코드 저격 데이터 추가
-- [9251번](https://www.acmicpc.net/problem/9251) - 29131299번 코드 저격 데이터 추가
 - [2110번](https://www.acmicpc.net/problem/2110) - 27043577번 코드 저격 데이터 추가
