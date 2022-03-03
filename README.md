@@ -18,6 +18,7 @@ BOJ 문제 채점 데이터 추가 프로젝트
 - [5568번](https://www.acmicpc.net/problem/5568) - std::set을 사용한 느린 코드들이 통과([링크](https://www.acmicpc.net/board/view/82917))
 - [5525번](https://www.acmicpc.net/problem/5525) - O(N^2) 풀이가 100점을 받음([링크](https://www.acmicpc.net/board/view/82925))
 - [5558번](https://www.acmicpc.net/problem/5558) - 매우 느린 구현/시뮬레이션 코드가 통과([링크](https://www.acmicpc.net/board/view/82959))
+- [11018번](https://www.acmicpc.net/problem/11018) - 소수점 오차를 발생시키는 코드들이 통과([링크](https://www.acmicpc.net/board/view/84902))
 
 ## Todo
 - [5582번](https://www.acmicpc.net/problem/5582) - 14782474번, 7146666번, 14116034번 코드 저격 데이터 추가
