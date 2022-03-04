@@ -20,6 +20,7 @@ BOJ 문제 채점 데이터 추가 프로젝트
 - [5525번](https://www.acmicpc.net/problem/5525) - O(N^2) 풀이가 100점을 받음([링크](https://www.acmicpc.net/board/view/82925))
 - [5558번](https://www.acmicpc.net/problem/5558) - 매우 느린 구현/시뮬레이션 코드가 통과([링크](https://www.acmicpc.net/board/view/82959))
 - [11018번](https://www.acmicpc.net/problem/11018) - 소수점 오차를 발생시키는 코드들이 통과([링크](https://www.acmicpc.net/board/view/84902))
+- [2042번](https://www.acmicpc.net/problem/2042) - 누적 합이나 std::map 등을 이용한 느린 코드가 통과([링크](https://www.acmicpc.net/board/view/85348))
 
 ## Todo
 - [5582번](https://www.acmicpc.net/problem/5582) - 14782474번, 7146666번, 14116034번 코드 저격 데이터 추가
