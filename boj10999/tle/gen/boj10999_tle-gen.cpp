@@ -12,12 +12,12 @@ int main(int argc, char** argv) {
 	int k = rnd.next(9000, 10000);
 	printf("%d %d %d\n", n, m, k);
 	for (int i = 0; i < n; i++) {
-		printf("%lld\n", rnd.next(-(LLONG_MAX / 2), LLONG_MAX / 2));
+		printf("%lld\n", rnd.next(-8e12, 8e12));
 	}
 	for (int i = 0; i < m; i++) {
 		int p = rnd.next(1, n);
 		int q = rnd.next(p, n);
-		printf("1 %d %d %lld\n", p, q, rnd.next(-(LLONG_MAX / 2), LLONG_MAX / 2));
+		printf("1 %d %d %lld\n", p, q, rnd.next(-1e8, 1e8));
 	}
 	for (int i = 0; i < k; i++) {
 		int p = rnd.next(1, n);
