@@ -15,7 +15,7 @@ int main(int argc, char** argv) {
 		printf("%lld\n", rnd.next((ll)-9e13, (ll)9e13));
 	}
 	for (int i = 0; i < m; i++) {
-		printf("1 %d %lld\n", rnd.next(n - 5000, n), rnd.next((ll)-9e13, (ll)9e13));
+		printf("1 %d %lld\n", rnd.next(1, 5000), rnd.next((ll)-9e13, (ll)9e13));
 	}
 	for (int i = 0; i < k; i++) {
 		printf("2 %d %d\n", rnd.next(1, n / 4), rnd.next(n / 4 * 2, n));
