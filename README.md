@@ -14,7 +14,7 @@ BOJ 문제 채점 데이터 추가 프로젝트
 - [10999번](https://www.acmicpc.net/problem/10999) - 누적 합을 이용한 느린 코드가 통과([링크](https://www.acmicpc.net/board/view/85922), [재채점](https://www.acmicpc.net/rejudge/status/all/4743))
 - [2042번](https://www.acmicpc.net/problem/2042) - 누적 합을 이용한 느린 코드가 통과([링크1](https://www.acmicpc.net/board/view/85348): Rejected, [링크2](https://www.acmicpc.net/board/view/89835), [재채점](https://www.acmicpc.net/rejudge/status/all/4898))
 - [2493번](https://www.acmicpc.net/problem/2493) - 답의 위치를 직접 순회하며 찾는 O(n^2) 코드가 통과([링크](https://www.acmicpc.net/board/view/87045), [재채점](https://www.acmicpc.net/rejudge/status/all/4918))
-- [10942번](https://www.acmicpc.net/problem/10942) - 지문 그대로 구현하고 동일한 쿼리에 대해 dict로 처리하는 느린 코드가 통과([링크](https://www.acmicpc.net/board/view/90428), [재채점](https://www.acmicpc.net/rejudge/status/diff/4952))
+- [10942번](https://www.acmicpc.net/problem/10942) - 지문 그대로 구현하고 동일한 쿼리에 대해 dict로 처리하는 느린 코드가 통과([링크](https://www.acmicpc.net/board/view/90428), [재채점](https://www.acmicpc.net/rejudge/status/all/4952))
 
 ## Pending
 - [11094번](https://www.acmicpc.net/problem/11094) - Simon says의 위치를 정확히 파악하지 않는 코드가 통과([링크](https://www.acmicpc.net/board/view/77868))
