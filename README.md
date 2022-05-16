@@ -24,7 +24,7 @@ BOJ 문제 채점 데이터 추가 프로젝트
 - [5525번](https://www.acmicpc.net/problem/5525) - O(N^2) 풀이가 100점을 받음([링크](https://www.acmicpc.net/board/view/82925))
 - [5558번](https://www.acmicpc.net/problem/5558) - 매우 느린 구현/시뮬레이션 코드가 통과([링크](https://www.acmicpc.net/board/view/82959))
 - [11018번](https://www.acmicpc.net/problem/11018) - 소수점 오차를 발생시키는 코드들이 통과([링크](https://www.acmicpc.net/board/view/84902))
-- [18436번](https://www.acmicpc.net/problem/18436) - O(NM) 풀이가 100점을 받음([링크](https://www.acmicpc.net/board/view/90635))
+- [18436번](https://www.acmicpc.net/problem/18436) - 누적 합 배열을 일일이 갱신하는 코드가 통과([링크](https://www.acmicpc.net/board/view/90635))
 
 ## Rejected
 
