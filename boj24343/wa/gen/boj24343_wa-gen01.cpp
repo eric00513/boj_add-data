@@ -10,12 +10,11 @@ int main(int argc, char** argv) {
 	freopen("boj24343_wa01.in", "w", stdout);
 
 	cout << 10 << '\n';
-	int x[10] = { 890, 45, 82, 107, 39, 5, 1000, 32, 1, 3 };
 	for (int t = 0; t < 10; t++) {
 		vector<int> a;
-		int n = x[t];
+		int n = 9;
 		for (int i = 0; i < n; i++) {
-			a.push_back(rnd.next(1, 9) * 10 + rnd.next(0, 9));
+			a.push_back(rnd.next(1, 100));
 		}
 		int T = accumulate(a.begin(), a.end(), 0) / 2 + 1;
 		cout << T << ' ' << n << '\n';
